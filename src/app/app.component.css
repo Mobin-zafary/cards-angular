@@ -1,0 +1,9 @@
+.card{
+    width: 360px;
+}
+:host {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
